@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🙋‍♂️ Presentació personal
 
-<!--
-**744-bdlc/744-bdlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola! Em dic Víctor i sóc un estudiant en el Bosc De La Coma.
 
-Here are some ideas to get you started:
+🎓 **Estudis actuals:**  
+Actualment estic estudiant 1DAM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Àrees informàtiques que m'interessen:**
+- SISTEMES OPERATIUS
+- PROGRAMACIÓ
+- PÀGINES WEB
+
+🎯 **Objectius professionals:**  
+En el futur m'agradaria treballar com un programador o administrador de sistemes.
+
+---
+
+## 🛠️ Coneixements i tecnologies
+
+Aquest és un resum de les tecnologies i eines informàtiques que conec o que estic aprenent actualment.
+
+### 💻 Llenguatges de programació
+**Dominats:**
+- HTML
+- CSS
+
+**En aprenentatge:**
+- JAVA
+- XML
+
+### 🗄️ Bases de dades
+
+**En aprenentatge:**
+- SQL
+
+### 🖥️ Sistemes operatius
+**Dominats:**
+- WINDOWS
+
+**En aprenentatge:**
+- LINUX
+
+### 🔧 Eines informàtiques
+**Dominats:**
+- VSCODE
+
+**En aprenentatge:**
+- TERMINAL
+
+---
+
+⭐ *Gràcies per visitar el meu perfil de GitHub!*
